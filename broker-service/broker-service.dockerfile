@@ -1,4 +1,4 @@
-# Not needed, because docker compose already builds
+# Not needed, because the build is happening in the makefile
 # FROM golang:1.18-alpine as builder
 
 # RUN mkdir /app
